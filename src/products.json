@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "tittle": "Celular Samsung a20",
+    "description": "celular samsung",
+    "code": "123457",
+    "price": "41000",
+    "status": "true",
+    "stock": "20",
+    "category": "Electrónica"
+  },
+  {
+    "id": 2,
+    "tittle": "Celular Samsung a22",
+    "description": "celular samsung",
+    "code": "123458",
+    "price": "47000",
+    "status": "true",
+    "stock": "20",
+    "category": "Electrónica"
+  },
+  {
+    "id": 3,
+    "tittle": "Celular Samsung a30",
+    "description": "celular samsung",
+    "code": "123459",
+    "price": "51000",
+    "status": "true",
+    "stock": "20",
+    "category": "Electrónica"
+  },
+  {
+    "id": 4,
+    "tittle": "Celular Samsung a52",
+    "description": "celular samsung",
+    "code": "123454",
+    "price": "65000",
+    "status": "true",
+    "stock": "20",
+    "category": "Electrónica"
+  },
+  {
+    "id": 5,
+    "tittle": "Celular Samsung a50",
+    "description": "celular samsung",
+    "code": "123453",
+    "price": "61000",
+    "status": "true",
+    "stock": "20",
+    "category": "Electrónica"
+  },
+  {
+    "id": 6,
+    "tittle": "Celular Motorola G22",
+    "description": "Motorola g22",
+    "code": "124235",
+    "price": "59999",
+    "status": "true",
+    "stock": "20",
+    "category": "Electrónica"
+  },
+  {
+    "id": 7,
+    "tittle": "Celular Motorola E20",
+    "description": "Motorola e20",
+    "code": "124236",
+    "price": "37999",
+    "status": "true",
+    "stock": "20",
+    "category": "Electrónica"
+  }
+]
