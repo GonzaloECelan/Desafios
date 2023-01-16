@@ -3,7 +3,6 @@ const handlebars = require('express-handlebars');
 const fs = require('fs');
 const {Server} = require('socket.io');
 
-const routerView = require('./route/view.routes');
 const productView = require('./route/products.routes');
 
 
@@ -24,7 +23,6 @@ app.use(express.static(__dirname + '/public'));
 
 
 // route
-app.use(routerView)
 app.use('/api/products',productView);
 
 
